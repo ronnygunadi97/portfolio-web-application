@@ -2,7 +2,7 @@ export const personalInfo = {
     name: "Ronny Gunadi",
     role: "Portfolio Project",
     contact: {
-        phone: "085121042038", // Preserving from previous knowledge
+        phone: "087797942735", // Updated to WhatsApp number
         email: "office.ronny.gunadi@gmail.com", // Preserving from previous knowledge
         linkedin: "https://www.linkedin.com/in/ronny-gunadi-860728128/", // Preserving from previous knowledge
         location: "Jakarta, Indonesia", // Preserving from previous knowledge
