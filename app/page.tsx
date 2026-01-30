@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { personalInfo, experience, education, skills } from "./data";
-import { Linkedin, Mail, MapPin, Phone } from "lucide-react";
+import { Github, Linkedin, Mail, MapPin, Phone } from "lucide-react";
 
 export default function Home() {
   return (
@@ -29,6 +29,9 @@ export default function Home() {
               </a>
               <a href={personalInfo.contact.linkedin} target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-white/10 hover:bg-white/20 text-white font-bold rounded-full transition-all backdrop-blur-sm border border-white/10 flex items-center gap-2">
                 <Linkedin size={20} /> LinkedIn
+              </a>
+              <a href={personalInfo.contact.github} target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-white/10 hover:bg-white/20 text-white font-bold rounded-full transition-all backdrop-blur-sm border border-white/10 flex items-center gap-2">
+                <Github size={20} /> GitHub
               </a>
             </div>
 

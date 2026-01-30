@@ -6,6 +6,7 @@ export const personalInfo = {
         email: "office.ronny.gunadi@gmail.com", // Preserving from previous knowledge
         linkedin: "https://www.linkedin.com/in/ronny-gunadi-860728128/", // Preserving from previous knowledge
         location: "Jakarta, Indonesia", // Preserving from previous knowledge
+        github: "https://github.com/ronnygunadi97",
     },
     summary: "Portfolio Project by Ronny Gunadi. Source code cannot be provided, all confidential to each bank / clients.",
 };
